@@ -1,4 +1,4 @@
-public class Parent {
+public class Parent extends GrandParent{
     
     public void sayHello() {
         System.out.println("Hello from Parent!");
